@@ -1,6 +1,5 @@
 import React from "react"
 
-const hello = "こんにちは"
 export default () => (
 <div>
   <header className="header">

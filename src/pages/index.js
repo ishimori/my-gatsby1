@@ -1,4 +1,15 @@
 import React from "react"
+export default () => (
+<div>
+  hello
+</div>
+
+)
+  
+
+
+/*
+import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
@@ -20,3 +31,4 @@ const IndexPage = () => (
 )
 
 export default IndexPage
+*/
